@@ -1,0 +1,7 @@
+ProgettoUnity/Library/
+ProgettoUnity/Temp/
+*.csproj
+*.sln
+*.DotSettings
+ProgettoUnity/obj/
+*.suo
