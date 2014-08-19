@@ -5,3 +5,5 @@ ProgettoUnity/Temp/
 *.DotSettings
 ProgettoUnity/obj/
 *.suo
+*.userprefs
+*.unityproj
